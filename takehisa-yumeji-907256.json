@@ -1,0 +1,1716 @@
+{
+ "work": "暮笛",
+ "work_id": "takehisa-yumeji-907256",
+ "repo": "kumoi-no-fumigura/takehisa-yumeji-907256",
+ "yomi": "ぼてき",
+ "category": "近代歌集",
+ "kind": "prose",
+ "description": {
+  "kind": "近代歌集",
+  "era": "大正時代",
+  "author": "竹久夢二",
+  "desc": "竹久夢二の歌集（1916 年刊）。"
+ },
+ "editions": [
+  {
+   "pid": "907256",
+   "title": "暮笛 : 絵入歌集",
+   "editor": "竹久夢二 著",
+   "series": "",
+   "publisher": "三陽堂書店",
+   "year": 1916,
+   "pages": "コマ 4〜112",
+   "url": "https://dl.ndl.go.jp/pid/907256",
+   "label": "1916 三陽堂書店",
+   "note": "国立国会図書館の全文テキスト（OCR）のまま"
+  }
+ ],
+ "status": "未校正",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "translation": null,
+ "blocks": [
+  {
+   "id": "takehisa-yumeji-907256-0001",
+   "pid": "907256",
+   "pages": [
+    4
+   ],
+   "no": null,
+   "maki": "標題",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "歌集繪入暮笛竹久夢二著京東堂陽三兌發",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0002",
+   "pid": "907256",
+   "pages": [
+    5
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この本は、先きに出した「繪入歌集』を增補改版したものです。こに撰んだ歌は、遠く萬葉から近代にいたる各々の時代の作で、私の記臆に殘つてゐるものだけです。作者の名も今はさだかに覺えぬほど昔に讀みおぼえたものもあるし、また人に知られずに散る名もない一少女の手紙のはしに書きつけてあつた野の花のやう·な作もある。それにしても曾てそれ〓〓の時代に、私の心に共鳴しないものはないのです。それゆえ、歌によせた繪にも、平安朝の大宮人が洋傘をかざして銀座の街をゆくもあれば、洋服をきて寧樂の舊都をさまよふ髪長き詩人もある。この時代錯誤も私にはきわめて自然です。この本をよむ人に、この私の我儘な滿足を許して貰ひた千九百十六年十一月二十五日京都にて夢",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0003",
+   "pid": "907256",
+   "pages": [
+    11
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ほそ〓〓とそこらこゝらに虫のなく晝てがみの野にきてよむ手紙かな。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0004",
+   "pid": "907256",
+   "pages": [
+    12
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "水をみて流るゝ水を見てありぬ日はかくてありもえしかど。みづるつみ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0005",
+   "pid": "907256",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "たまふなと言へるきみかな。かの宵の露臺のことはゆめひとにいひ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0006",
+   "pid": "907256",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "紫は灰さすものぞ権市の八十のちまたに逢へる子やたれ。つはから",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0007",
+   "pid": "907256",
+   "pages": [
+    15
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いもうと悲しもも母がまつゆえ妹がまつゆえ家けに今日もかへらむ。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0008",
+   "pid": "907256",
+   "pages": [
+    16
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "身ごもるときゝてかなしき妻おもふ無たい、みあをはちぐわ花果の實の靑き八月。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0009",
+   "pid": "907256",
+   "pages": [
+    17
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ミハ鳥とべば君かこぞおもひ風ふかば君かかよぢとぞおもふかなしき通ひ路。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0010",
+   "pid": "907256",
+   "pages": [
+    18
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なげけとていまはた目白僧園の夕の鐘じろそうるんもなりいでにけむ。/1",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0011",
+   "pid": "907256",
+   "pages": [
+    19
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "帳釣草にふる夏の雨。まつり日や見世物小屋のかたはらの蚊つりぐさみやあめや",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0012",
+   "pid": "907256",
+   "pages": [
+    20
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "花見れば花のかはゆしつみてましつむとも何のなぐさめにせむ。はななん",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0013",
+   "pid": "907256",
+   "pages": [
+    21
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "黃昏のよりどころなき魂か柳のかげをかは蝠蝙のとぶ。がれたましひ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0014",
+   "pid": "907256",
+   "pages": [
+    22
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "片手なき人形ひとつまろびぬる木のかあをどもベやげ靑き子供部屋かな。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0015",
+   "pid": "907256",
+   "pages": [
+    23
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春の海さして船ゆく山蔭の名もなき港ひるかね畫の鐘なる。か",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0016",
+   "pid": "907256",
+   "pages": [
+    24
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕ぐれのとりあつめたる靄のうちしづかに人の泣く音きこゆる。ひとa",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0017",
+   "pid": "907256",
+   "pages": [
+    25
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "てかひなき夜の女に。問ふまゝに死ぬる藥をおしへやる生き〓みさるをんなTHELANDOFSAMISEN",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0018",
+   "pid": "907256",
+   "pages": [
+    26
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おほかたのあはれをしるにおつれどもなみだ涙はきみにかけてこそおもへ。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0019",
+   "pid": "907256",
+   "pages": [
+    27
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "晩秋の波止場の道にこぼれたる豆をさびしみかへるたそがれ。三--",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0020",
+   "pid": "907256",
+   "pages": [
+    28
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "戶なひきそ戶の面に今しゆく春のかなしさみてりこよ何か泣く。なにないる心",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0021",
+   "pid": "907256",
+   "pages": [
+    29
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "らく港入り娼家の壁が落日にかがやけるこそかなしかりけり。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0022",
+   "pid": "907256",
+   "pages": [
+    30
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ときいつはしも戀ひぬ時とはあらねどもゆ〓ふかたまけて戀はすべなし。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0023",
+   "pid": "907256",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "朝なさな草のへしろくおく露のけなばうともにといひし君はも。×",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0024",
+   "pid": "907256",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あ.みづゆく水に赤き日のさし水ぐるま春の川瀨にやまずめぐるも。みづ聯",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0025",
+   "pid": "907256",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが屋戶の夕蔭草の白露のけぬがにもしらとなおもほゆるかも。かけ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0026",
+   "pid": "907256",
+   "pages": [
+    34
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゆきびとを誰と知りてか。したらちねの母が呼ぶ名をまをさめど道よれな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0027",
+   "pid": "907256",
+   "pages": [
+    35
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "(°C)いまはたゞ橇の鈴のみなつかしき雪の戶なれば馬にむちうつ。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0028",
+   "pid": "907256",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "はたらかば母の氣嫌もなほるかと針となみだりあげて淚ぬぐへり。きげん",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0029",
+   "pid": "907256",
+   "pages": [
+    37
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あくなみだ頰につたふ涙のごはず一握の砂をしめしゝひとをわすれず。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0030",
+   "pid": "907256",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "惜めども春のかぎりの今日の日の夕暮にさへなりにけるかな。をし",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0031",
+   "pid": "907256",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "はかもなき露のほどにもきえてまし玉みとなりけんかひもなき身を。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0032",
+   "pid": "907256",
+   "pages": [
+    40
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いつしかに淺きうき名もたちけらし浮よしんみちなつ世新道夏のたそがれ。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0033",
+   "pid": "907256",
+   "pages": [
+    41
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うつせみのつねの言葉とおもへどもつはこゝろぎてしきけば心はなぎて。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0034",
+   "pid": "907256",
+   "pages": [
+    42
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "はな桐の花ことにかはゆき牛玉の泣かまほしさにあゆむ雨かな。あめ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0035",
+   "pid": "907256",
+   "pages": [
+    43
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "たゝむ名こそをしけれ。春の夜の夢ばかりなる手枕にかひなくまくら24MAI1915",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0036",
+   "pid": "907256",
+   "pages": [
+    44
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "びくる春の山畑。すく〓〓とおひたつ麥に腹すりて燕といち〇十に",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0037",
+   "pid": "907256",
+   "pages": [
+    45
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春の月橡の雨戶のおもからば逢はでかゑんうにへらむ歌うたへきみ。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0038",
+   "pid": "907256",
+   "pages": [
+    46
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わすれじのゆく末まではかたけれど今いのち日をかぎりの命ともかな。すゑ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0039",
+   "pid": "907256",
+   "pages": [
+    47
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "君おもふあまた男のそのなかのこの櫛びきかな挽とおもへば哀しも。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0040",
+   "pid": "907256",
+   "pages": [
+    48
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "越えもせむ越さずもあらん達坂の師守ひとならぬ人なとがめそ。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0041",
+   "pid": "907256",
+   "pages": [
+    49
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "その人も泣いてわかれたこの人もないわかよつやなぎて別れる夏柳かな。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0042",
+   "pid": "907256",
+   "pages": [
+    50
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うらがなし歸りて君が父のまへいふいひわけのおぼつかなしも。か、きみ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0043",
+   "pid": "907256",
+   "pages": [
+    51
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しかたく手に抱けば死をも辭しがたき心とぞなる人のかなしも。ていだ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0044",
+   "pid": "907256",
+   "pages": [
+    52
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "道のべのいちしの花のいちじろく人みなしりぬわがこひづまは。みちほ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0045",
+   "pid": "907256",
+   "pages": [
+    53
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今をかも萠ゆるかふたりしきてねしその丘のへのいとし若草。をかわか;",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0046",
+   "pid": "907256",
+   "pages": [
+    54
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ほの〓〓と野のうすみどりうつるなりる君が化粧きみけの春の鏡に。かゞみ191524MAI",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0047",
+   "pid": "907256",
+   "pages": [
+    55
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ありし日の少女のごとき眼してなぜによひ今宵はむかへくるヽや。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0048",
+   "pid": "907256",
+   "pages": [
+    56
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かたねもごろに片思ひすれこのころのわがこゝろどの生けりともなき。お",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0049",
+   "pid": "907256",
+   "pages": [
+    57
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "amゆるしたまへ月にあはれをさそはれしなつ夏のひと夜のたはむりなりしを。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0050",
+   "pid": "907256",
+   "pages": [
+    58
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夏の帶いさごのうへになが〓〓とときてかこちぬ身さへほそると。うおび",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0051",
+   "pid": "907256",
+   "pages": [
+    59
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "りしまゝに哀しかりける。なにかしらかぞへて折りし手の指の握からをてゆび",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0052",
+   "pid": "907256",
+   "pages": [
+    60
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あはれまたねむりたまふやたまさかに逢ふ夜はわけて短きものを。あよぢか",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0053",
+   "pid": "907256",
+   "pages": [
+    61
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "またみむはいつの宵ぞもしかすがにつめたくふるゝ黑髪かなし。よひ(,かみ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0054",
+   "pid": "907256",
+   "pages": [
+    62
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ミなにゆゑに戀のはじめにかくばかり悲しきことをきみはのたまふ。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0055",
+   "pid": "907256",
+   "pages": [
+    63
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何處やらむかすかに蟲のなくごとく心むしぼそさを今日もおぼゆる。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0056",
+   "pid": "907256",
+   "pages": [
+    64
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "妹よわれも母をば持たざりきおほかたの日はかなしかりけり。ひ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0057",
+   "pid": "907256",
+   "pages": [
+    65
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "+4+春の夜の月のうちにもかくれましふと君につげ得たるのち。きみえ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0058",
+   "pid": "907256",
+   "pages": [
+    66
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "思出もとほき通草のかなし花きみにしらえずちりかすぎなむ。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0059",
+   "pid": "907256",
+   "pages": [
+    67
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わか別れむとするかなしみにつながれて逢へばかはゆしすてもかねたる。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0060",
+   "pid": "907256",
+   "pages": [
+    68
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "白芥子よ暮春はものゝ哀しさの身にしひとこひみわたり人の戀しき。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0061",
+   "pid": "907256",
+   "pages": [
+    69
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "風なきに緋桃みだるゝ今宵なりみだれて君の戀しき夜なり。こきみテ、よO",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0062",
+   "pid": "907256",
+   "pages": [
+    70
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あひそめし日かやわかれの涙かやなけこ·ろばにるかな心なごみて。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0063",
+   "pid": "907256",
+   "pages": [
+    71
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "こゝろ戀ふること心やりかねいでてゆけば山·をも河をもしらずきにけり。Cかはりもなゝいりつ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0064",
+   "pid": "907256",
+   "pages": [
+    72
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "は萌えそめし何の芽生ぞ二葉なる芽よりきみかなしき君とこそおもへ。ばえめ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0065",
+   "pid": "907256",
+   "pages": [
+    73
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "くろかみ黑髪のものやわらかきふくらみに吸はれゆくかなわかき心の。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0066",
+   "pid": "907256",
+   "pages": [
+    74
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "村はづれ旅商人の肩の荷にあきつみだれてとべるたそがれ。たびか",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0067",
+   "pid": "907256",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あさつゝじさく朝の涙の頰づたひの色としきかばかへりこよ君。なみだほきん",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0068",
+   "pid": "907256",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かなしくもきみはお七になれといふいかなるつとめわれとぐべしや。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0069",
+   "pid": "907256",
+   "pages": [
+    77
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "露路のおく酢倉の裏のくらがりに盲人のごとく泣ける三味線。さみせし",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0070",
+   "pid": "907256",
+   "pages": [
+    78
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かね鉦ならし信濃の國をゆきゆかばありしはながらの母みるらんか。1",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0071",
+   "pid": "907256",
+   "pages": [
+    79
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いつとなくわするゝとなく文たえてあかつはれことしの夏もいぬめり。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0072",
+   "pid": "907256",
+   "pages": [
+    80
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "たけばぬれたかねばながき妹が髪このごろみねばみだれつらんか。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0073",
+   "pid": "907256",
+   "pages": [
+    81
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鐵橋を白くぬりかへし寂しさよこの大しろび用の秋ゆふぐれの夕暮。〓",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0074",
+   "pid": "907256",
+   "pages": [
+    82
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "x,初秋や水のやうなる風吹けば髪も袂もまかせてぞたつ。かぜ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0075",
+   "pid": "907256",
+   "pages": [
+    83
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゆく秋の山の谷々わが母はいかにさびしく住みたまふらむ。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0076",
+   "pid": "907256",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "茶がかりし中折帽を手にもちてものを0.言ひたる人は悲しも。をれは、てかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0077",
+   "pid": "907256",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いつしらず身は公園の掛椅子に夜をまひとつ人となりにけらしな。きんかけい",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0078",
+   "pid": "907256",
+   "pages": [
+    86
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "つかの間に帶をしとけば夏の海うれしひが〓〓しろく光り肌は白しも。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0079",
+   "pid": "907256",
+   "pages": [
+    87
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春の風海より吹けば露臺なるわが黑髮のそよらとなるも。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0080",
+   "pid": "907256",
+   "pages": [
+    88
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "そヾろにもすぎし思ひのいとほしく夜かるのねざめも秋はかなしき。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0081",
+   "pid": "907256",
+   "pages": [
+    89
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "よき椅子に黑き猫さへきてなげく初夏ばんしゆん晩春の濃きコヽアかな。ねこ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0082",
+   "pid": "907256",
+   "pages": [
+    90
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "一、だて函館にゆかばやせめてみちのくのほのみゆる日もあるべし皐月。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0083",
+   "pid": "907256",
+   "pages": [
+    91
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "筑波根の峰の白雪ありやなしやさやかかつに雁のなきつれてゆく。しら",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0084",
+   "pid": "907256",
+   "pages": [
+    92
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "深川の夏の夜こひし船唄の木の香にまようたみづじり水のながるゝ。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0085",
+   "pid": "907256",
+   "pages": [
+    93
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "泣きぬれて今來しものをあはれとも驚きもせで相見る人よ。あひみひと",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0086",
+   "pid": "907256",
+   "pages": [
+    94
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "茜さす紫野ゆき標野ゆき野守はみずやここきみが袖ふる。しのの",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0087",
+   "pid": "907256",
+   "pages": [
+    95
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "圓山の長椅に凭りてあはれにも娼婦のよtるあそぶ春のゆふぐれ。0",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0088",
+   "pid": "907256",
+   "pages": [
+    96
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わがせこはせどのあさ川かちわたり菖ぶになみやこ蒲荷ひて都べにゆく。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0089",
+   "pid": "907256",
+   "pages": [
+    97
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "厨女の白き前掛しみ〓〓と靑葱の香のしみて雪ふる。あを",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0090",
+   "pid": "907256",
+   "pages": [
+    98
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "橘のかげふむ路の八衝にものをぞおもあふ妹に逢はずて。ららた",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0091",
+   "pid": "907256",
+   "pages": [
+    99
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "干場のたんぼゝの花。いつしかに春の名殘となりにけり昆布ほしばはなミぶこいない",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0092",
+   "pid": "907256",
+   "pages": [
+    100
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かつき露にわがたちぬれし。わが背子を大和へやると小夜ふけてあツま",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0093",
+   "pid": "907256",
+   "pages": [
+    101
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "くろかろやまやますげ:)ぬばたまの黑髪山の山管に小雨ふりしきしく〓〓おもほゆ。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0094",
+   "pid": "907256",
+   "pages": [
+    102
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しほなりとのもには雪ふりけらし潮鳴のひま〓〓はまにきく濱千鳥かな。S",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0095",
+   "pid": "907256",
+   "pages": [
+    103
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "目もはるに秋の野のへをわたる鳥その鳥のごと旅にいでまし。あきとりたび",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0096",
+   "pid": "907256",
+   "pages": [
+    104
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "頗かぶりの男と肩をならべゆく和のあきかどみち國の秋風の路。ほ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0097",
+   "pid": "907256",
+   "pages": [
+    105
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "(妹か門ゆきすぎかねて草結ぶ風吹きとくなまたかへりみむ。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0098",
+   "pid": "907256",
+   "pages": [
+    106
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "病める兒はハモニカをふき夜にいりぬ唐畑の黄なる月の出。もろこしばつきで",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0099",
+   "pid": "907256",
+   "pages": [
+    107
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋ゆかばたぐひまれなる惡運のいやはかなき身いづちすてなむ。",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0100",
+   "pid": "907256",
+   "pages": [
+    108
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "び幾山河越えさりゆかば寂しさのはてなむ國ぞ今日も旅ゆく。けふたび",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0101",
+   "pid": "907256",
+   "pages": [
+    109
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うらみごとたれにせんとにあらねどもかなしきはわがきその白珠。しらたま",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0102",
+   "pid": "907256",
+   "pages": [
+    110
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "は言ひてけぬがにもよる。たまきはる命ひかりて觸りたれば否といのちいな11915MAY22NC",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0103",
+   "pid": "907256",
+   "pages": [
+    111
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "發行所複不大正五年十二月十三日發大正五年十二月十日印製許振替東京市本郷區駒込林町二百三十七番地口座東京二五〇一〇番集歌入総笛暮行刷著印刷所印刷者發行者者三東京市神田區錦町一丁目三番地賞大東京市神田區錦町一丁目三番地澤京之築東京市本〓區駒込林町二百三十七番地瀨富次竹定價金壹圓貳拾錢三久陽堂夢書舍助郞店",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "takehisa-yumeji-907256-0104",
+   "pid": "907256",
+   "pages": [
+    112
+   ],
+   "no": null,
+   "maki": "序",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ロンブロオゾオ原著總布製裝幀極優美辻潤先生譯全六號四百餘頁縮刷訂正四六判天金箱入美本全訂譯正天才論定價金壹圓貳拾錢五版送費金八錢我が文壇の泰斗夏目漱石氏讃して曰く天才の風貌を窺んと欲せば本書を必讀せよと、又詩壇の驍將蒲原有明氏は常に本書を推稱して竭まず近くは厨川文學士は其著近代文學十講以つて本書が如何に天才研究上缺く可からざる大權威あ10元素食堂林林語九日見せる。抑も本書の基調たるや天才と狂者と復雜徵妙なる關係、犯罪者、癲癇者等を辛辣なる心的的剖剖さては精神病院內に於ける奇拔なる文藝術の例等を滿載し銳敏なる親察的確なる斷案、該專精緻なる科學的〓究は有益無比者序して曰く、「ある人而も興味森々と盡くるを知らず盖し空前絕後の珍書たり後に諸者野して\"text\"〓〓＼否眞は必ずしの####くの應用は斯る〓究に依つて生る下側へに大なる歴史上教精神病者の解釋は本書の〓究の〓術祈及が此拜の新鮮の時光にた、而してく斯る事實にべきものにして更に宗教上の精神病者、る氏に\"と喝破しつゝ偉大なる抱負を叫號せり實に其言の如く本書は科學書にして科學書に非ず心理學?生理學?形貌學?否々是等の全體なり取材の豊富なる引照せる幾多の詩歌文章の充滿瀬石氏をして必讀書と叫ばしめしも宜なる哉發行早々增上海交通局一致運営している。しめき天才研究家訂正し殆ど新面目を呈して遺憾なあらんと欲する人々は云ふまでもなゆる生活者は本書を机上の寵兒として愛する事を怠る勿れ。開行發堂陽三圖書■武ルガイバシェン作林無想庵譯原稿紙九百數十枚の大作全六號四百二十頁に縮刷五四六判總布製美本全譯サニン定價金壹圓也版送費八錢アルツイバシエヴの代表的傑作として衆評の一致してゐる本書は彼が二十四才の作で(一九〇〇年の出版過渡期の思想小說を銘を打たれて公にされた讀書界の歡迎は露都の紙價を一時に高からしめた〓があつて、實に空前の賣行だと云はれてゐる而して主人公サニがなるとした國靑年男女の思想界を蓆捲しサニン主義を奉ずる男女の祕密結社其社會的影響の甚大なのに驚いた露國官憲は遂に本書の發賣を禁止許部代の王來タラニアアリ氏は木書を除行にた地位より少々月のた然しそれは露西亞の國情が然らしめたので公平な眼で見て是は立派な高級藝術品であるドストイヱフスキイ原著生田長江共譯原稿紙千五百餘枚の大作全六號六百餘頁に縮刷一頁一千餘字詰五生田春月脊皮天金装幀優美全罪譯と罰定價金壹圓四拾錢版送費八錢て何等かの事を學ばざるを得さりし唯一の心理學者なり実作。リードリツヒ、ニイチェその一偶像の微光」に於て曰く「ドストエフスキイ」は我が就て以彼は我が生涯の最美なる幸福の事件に屬す」と此偉大なるドストエフスキイの代表傑作「罪と罰」は唯徒に名のみ吾人の耳に熟して未だ其の實を見る事能ざりしは常に吾人の遺憾とせし處。各地三〇〇〇CO네트워크三、一、おの9下に全第8の成り空前の年麻辣價なり〓て11近常に梧州にい船體んせいすてて書きを信ぜんとすサニン圖行發堂陽三書",
+   "sachu": "",
+   "poems": []
+  }
+ ],
+ "poems": [],
+ "catalog": {
+  "work_id": "takehisa-yumeji-907256",
+  "work": "暮笛",
+  "yomi": "ぼてき",
+  "category": "近代歌集",
+  "era": "大正時代",
+  "author": "竹久夢二",
+  "kind": "prose",
+  "blocks": 104,
+  "chars": 4994,
+  "poems": 0,
+  "yaku": 0,
+  "editions": 1,
+  "updated": "2026-11-22",
+  "updated_at": "2026-11-22T04:08:15+09:00"
+ }
+}
